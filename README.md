@@ -10,6 +10,7 @@
 
 ## .net Core 学习记录
 
+#### 2020-01-20 - [.net core 3.1 配置文件立即更新](https://github.com/ren8179/blog/issues/9)
 #### 2019-12-26 - [asp.net core 3.0 JObject The collection type 'Newtonsoft.Json.Linq.JObject' is not supported](https://github.com/ren8179/blog/issues/8)
 #### 2019-09-05 - [.net core Configuration](https://github.com/ren8179/blog/issues/6)
 #### 2019-06-27 - [.net core 部署 碰到的问题](https://github.com/ren8179/blog/issues/5)
