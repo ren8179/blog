@@ -19,4 +19,5 @@
 
 ## 其他
 
+#### 2020-03-17 - [在谷歌浏览器的开发者工具中发起POST请求](https://github.com/ren8179/blog/issues/12)
 #### 2019-12-27 - [github IP 列表](https://github.com/ren8179/blog/issues/7)
