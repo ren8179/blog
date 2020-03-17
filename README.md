@@ -4,6 +4,7 @@
 # 目录
 ## Vue学习记录
 
+#### 2020-03-17 - [Vue.js应用发布到IIS使用History路由问题解决办法](https://github.com/ren8179/blog/issues/11)
 #### 2017-03-04 - [Vue2 & ElementUI实现管理后台之input获得焦点](https://github.com/ren8179/blog/issues/3)
 #### 2017-02-15 - [在ABP框架中加密数据库连接字符串](https://github.com/ren8179/blog/issues/2)
 #### 2017-01-23 - [Vue2 & ElementUI实现管理后台之监听Window.resize](https://github.com/ren8179/blog/issues/1)
