@@ -17,6 +17,10 @@
 #### 2019-09-05 - [.net core Configuration](https://github.com/ren8179/blog/issues/6)
 #### 2019-06-27 - [.net core 部署 碰到的问题](https://github.com/ren8179/blog/issues/5)
 
+## C#
+
+#### 2020-04-08 - [C# 多线程编程](https://github.com/ren8179/blog/issues/13)
+
 ## 其他
 
 #### 2020-03-17 - [在谷歌浏览器的开发者工具中发起POST请求](https://github.com/ren8179/blog/issues/12)
