@@ -38,6 +38,7 @@
 
 ## 数据库
 
+#### 2021-01-15 - [数据库生成数据字典](https://github.com/ren8179/blog/issues/23)
 #### 2020-04-22 - [大批量数据操作的性能优化方案](https://github.com/ren8179/blog/issues/14)
 
 ## 其他
