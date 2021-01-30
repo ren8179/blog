@@ -34,6 +34,7 @@
 
 ## C#
 
+#### 2021-01-30 - [Log4net清理多余日志文件](https://github.com/ren8179/blog/issues/24)
 #### 2020-04-08 - [C# 多线程编程](https://github.com/ren8179/blog/issues/13)
 
 ## 数据库
